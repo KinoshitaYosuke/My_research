@@ -1,7 +1,4 @@
-﻿// hog.cpp
-// (C) Toshihiko YAMASAKI
-// 本プログラムを使用したことによるいかなる障害、損害も責任はとりません
-// 各自の責任において使用してください。
+﻿
 #include <stdio.h>
 #include <iostream>
 #include <math.h>
