@@ -1,15 +1,26 @@
 ﻿
 #include <stdio.h>
+
 #include <iostream>
+
 #include <math.h>
+
 #include <opencv/cv.h>
+
 #include <opencv/highgui.h>
+
 #include <ctype.h>
+
 #include <stdlib.h>
+
 #include <string.h>
+
 #include <errno.h>
+
 #include <time.h>
+
 #include <opencv2/opencv.hpp>
+
 #include "svm.h"
 
 #define YUDO_CD 0.7
